@@ -13,19 +13,20 @@ Before you begin, ensure you have met the following requirements:
 To install Blog Website, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Navigate to the `/api` folder.
+2. Create a MySQL database with the username `root` and host as `localhost`.
+
+## Running the Backend 
+3. Navigate to the `/api` folder.
 
     ```bash
     cd api
     ```
 
-3. Start the Node.js server.
+4. Start the Node.js server.
 
     ```bash
     node index.js
     ```
-
-4. Create a MySQL database with the username `root` and host as `localhost`.
 
 ## Running the Frontend
 
