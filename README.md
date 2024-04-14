@@ -44,3 +44,5 @@ To run the frontend of the Blog Website, follow these steps:
     ```
 
 Now, you should be able to see the Blog Website running on your local machine.
+Navigate to http://localhost:5173/register and create a new account. 
+Go to http://localhost:5173/login and login using the credentials.
